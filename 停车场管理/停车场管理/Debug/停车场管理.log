@@ -1,0 +1,4 @@
+﻿  停车场管理.cpp
+d:\visualstudio\projects\停车场管理\停车场管理\停车场管理.cpp(138): warning C4715: “D_cars”: 不是所有的控件路径都返回值
+  停车场管理.vcxproj -> D:\VisualStudio\Projects\停车场管理\Debug\停车场管理.exe
+  停车场管理.vcxproj -> D:\VisualStudio\Projects\停车场管理\Debug\停车场管理.pdb (Partial PDB)
