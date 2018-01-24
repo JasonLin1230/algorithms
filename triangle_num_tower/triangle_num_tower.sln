@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "triangle_num_tower", "triangle_num_tower\triangle_num_tower.vcxproj", "{E7097B3D-40E8-4873-842B-7B4BE6B2241A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Debug|x64.ActiveCfg = Debug|x64
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Debug|x64.Build.0 = Debug|x64
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Debug|x86.Build.0 = Debug|Win32
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Release|x64.ActiveCfg = Release|x64
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Release|x64.Build.0 = Release|x64
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Release|x86.ActiveCfg = Release|Win32
+		{E7097B3D-40E8-4873-842B-7B4BE6B2241A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7BF6E5-5B18-419F-8B10-E0F7ECAAA100}
+	EndGlobalSection
+EndGlobal

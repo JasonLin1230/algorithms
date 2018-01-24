@@ -1,0 +1,5 @@
+﻿  part_pack.cpp
+d:\visualstudio\projects\算法设计与分析\part_pack\part_pack\part_pack.cpp(7): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\visualstudio\projects\算法设计与分析\part_pack\part_pack\part_pack.cpp(19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\visualstudio\projects\算法设计与分析\part_pack\part_pack\part_pack.cpp(20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  part_pack.vcxproj -> D:\VisualStudio\Projects\算法设计与分析\part_pack\Debug\part_pack.exe
